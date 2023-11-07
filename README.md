@@ -31,11 +31,3 @@ This will launch the development servers for both the client and server, allowin
 Once the development servers are running, you can access the Chat Application in your web browser. The application will provide a user interface for sending and receiving messages in real time.
 
 Feel free to customize and extend the application to suit your specific needs or integrate it into other projects.
-
-## Credits
-
-This project was created based on the corresponding video tutorial, which provides a comprehensive guide to building a Realtime Chat Application using React and Socket.io.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects.
