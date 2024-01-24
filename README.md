@@ -30,4 +30,3 @@ This will launch the development servers for both the client and server, allowin
 
 Once the development servers are running, you can access the Chat Application in your web browser. The application will provide a user interface for sending and receiving messages in real time.
  
-Feel free to customize and extend the application to suit your specific needs or integrate it into other projects.
