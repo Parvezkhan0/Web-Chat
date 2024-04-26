@@ -2,7 +2,7 @@
 
 This repository contains the code for a full Realtime Chat Application. The application is built using React for the front end and utilizes NodeJS along with the Socket.io library for handling web sockets on the back end.
 
-You will gain a solid understanding of how to implement real-time communication between clients using web sockets and Socket.io, which can be applied to create various types of real-time applications.
+You will gain a solid understanding of how to implement real-time communication between clients using web sockets and Socket.io, which can be applied to create various types of real-time applications. 
 
 ## Setup
 
